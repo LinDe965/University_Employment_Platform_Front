@@ -1,0 +1,85 @@
+{
+    "list": [
+        {
+            "uid": 1,
+            "name": "张三",
+            "password": 123,
+            "tel": "18012345678",
+            "email": "123456@qq.com",
+            "role": "普通用户",
+            "enable": true,
+            "avatar": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "uid": 2,
+            "name": "李四",
+            "password": 456,
+            "role": "普通用户",
+            "tel": "15512345678",
+            "email": "234567@qq.com",
+            "enable": false,
+            "avatar": "https://lin-xin.gitee.io/images/post/node3.png"
+        },
+        {
+            "uid": 3,
+            "name": "王五",
+            "password": 789,
+            "role": "商家",
+            "tel": "19912345678",
+            "email": "345678@qq.com",
+            "enable": true,
+            "avatar": "https://lin-xin.gitee.io/images/post/parcel.png"
+        },
+        {
+            "uid": 4,
+            "name": "赵六",
+            "password": 1011,
+            "role": "商家",
+            "tel": "15912345678",
+            "email": "456789@qq.com",
+            "enable": false,
+            "avatar": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "uid":5,
+            "name": "赵六",
+            "password": 1011,
+            "role": "商家",
+            "tel": "15912345678",
+            "email": "456789@qq.com",
+            "enable": true,
+            "avatar": "https://lin-xin.gitee.io/images/post/notice.png"
+        },
+        {
+            "uid": 6,
+            "name": "赵六",
+            "password": 1011,
+            "role": "商家",
+            "tel": "15912345678",
+            "email": "456789@qq.com",
+            "enable": false,
+            "avatar": "https://lin-xin.gitee.io/images/post/node3.png"
+        },
+        {
+            "uid": 7,
+            "name": "赵六",
+            "password": 1011,
+            "role": "商家",
+            "tel": "15912345678",
+            "email": "456789@qq.com",
+            "enable": true,
+            "avatar": "https://lin-xin.gitee.io/images/post/parcel.png"
+        },
+        {
+            "uid": 8,
+            "name": "赵六",
+            "password": 1011,
+            "role": "商家",
+            "tel": "15912345678",
+            "email": "456789@qq.com",
+            "enable": false,
+            "avatar": "https://lin-xin.gitee.io/images/post/wms.png"
+        }
+    ],
+    "pageTotal": 8
+}

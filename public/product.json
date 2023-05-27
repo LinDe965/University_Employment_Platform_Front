@@ -1,0 +1,102 @@
+{
+  "list": [
+    {
+      "product_id": "78asd97ds9",
+      "cat_id": "HDD",
+      "product_name": "RTX3090Ti",
+      "item_option": [
+        {
+          "value": "WDS100T1X0A",
+          "label": "512G"
+        },
+        {
+          "value": "WDS100T1X0B",
+          "label": "1TB"
+        },
+        {
+          "value": "WDS100T1X0C",
+          "label": "2TB"
+        },
+        {
+          "value": "WDS100T1X0D",
+          "label": "4TB"
+        }
+      ],
+      "product_detail": "4T移动硬盘2T高速固态2tb大容量1tb机械硬盘外置存储连接手机电脑"
+    },
+    {
+      "product_id": "2sda3ds1",
+      "cat_id": "SSD",
+      "product_name": "RTX1660",
+      "item_option": [
+        {
+          "value": "WDS100T1X0A",
+          "label": "512G"
+        },
+        {
+          "value": "WDS100T1X0B",
+          "label": "1TB"
+        },
+        {
+          "value": "WDS100T1X0C",
+          "label": "2TB"
+        },
+        {
+          "value": "WDS100T1X0D",
+          "label": "4TB"
+        }
+      ],
+      "product_detail": "4T移动硬盘2T高速固态2tb大容量1tb机械硬盘外置存储连接手机电脑"
+    },
+    {
+      "product_id": "1eqw2we3req",
+      "cat_id": "HDD",
+      "product_name": "RTX2060",
+      "item_option": [
+        {
+          "value": "WDS100T1X0A",
+          "label": "512G"
+        },
+        {
+          "value": "WDS100T1X0B",
+          "label": "1TB"
+        },
+        {
+          "value": "WDS100T1X0C",
+          "label": "2TB"
+        },
+        {
+          "value": "WDS100T1X0D",
+          "label": "4TB"
+        }
+      ],
+      "product_detail": "4T移动硬盘2T高速固态2tb大容量1tb机械硬盘外置存储连接手机电脑"
+    },
+    {
+      "product_id": "6fgh7hg8df",
+      "cat_id": "SSD",
+      "product_name": "RTX3090",
+      "item_option": [
+        {
+          "value": "WDS100T1X0A",
+          "label": "512G"
+        },
+        {
+          "value": "WDS100T1X0B",
+          "label": "1TB"
+        },
+        {
+          "value": "WDS100T1X0C",
+          "label": "2TB"
+        },
+        {
+          "value": "WDS100T1X0D",
+          "label": "4TB"
+        }
+      ],
+      "product_detail": "4T移动硬盘2T高速固态2tb大容量1tb机械硬盘外置存储连接手机电脑"
+    }
+
+  ],
+  "pageTotal": 4
+}

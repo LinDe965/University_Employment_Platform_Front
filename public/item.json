@@ -1,0 +1,43 @@
+{
+  "list": [
+    {
+      "item_id": "abc123",
+      "product_name": "RTX3090ti",
+      "item_price": "26999",
+      "item_discount": "1.00",
+      "item_option":"512G",
+      "item_stock": 753,
+      "for_sale": true
+    },
+    {
+      "item_id": "bcd123",
+      "product_name": "RTX3080ti",
+      "item_price": "987",
+      "item_discount": "1.00",
+      "item_option":"512G",
+      "item_stock": 159,
+      "for_sale": false
+    },
+    {
+      "item_id": "qwe123",
+      "product_name": "RTX3070ti",
+      "item_price": "6999",
+      "item_discount": "1.00",
+      "item_option": "1TB",
+      "item_stock": 465,
+      "for_sale": true
+    },
+    {
+      "item_id": "asd123",
+      "product_name": "RTX3060ti",
+      "item_price": "8999",
+      "item_discount": "1.00",
+      "item_option": "2TB",
+      "item_stock": 258,
+      "for_sale": false
+    }
+
+
+  ],
+  "pageTotal": 4
+}
